@@ -1,0 +1,12 @@
+{
+  "name": "training-push-server",
+  "version": "1.0.0",
+  "description": "Push notification server for Training Plan PWA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
